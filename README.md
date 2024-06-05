@@ -1,4 +1,4 @@
-# **Project Title : Plant Diseases Detection using Deep Learning Objective**
+# **Project Title : Plant Diseases Detection using Deep Learning**
 
 ### Problem Statement:
 
